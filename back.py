@@ -1,4 +1,4 @@
-# import pandas as pd
+import pandas as pd
 # import datetime
 # import numpy as np
 # from math import log, sqrt, exp
@@ -6,8 +6,6 @@
 # import plotly.graph_objects as go
 # from plotly.offline import plot
 # import plotly.express as px
-from EmQuantAPI import c
-import platform
 
 # pro = ts.pro_api('1fc332e1bf51770eb38a1eaa8d86df7f1f41adc0e465346e0643afb6')
 
